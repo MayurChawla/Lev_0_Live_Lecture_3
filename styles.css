@@ -1,7 +1,5 @@
-body {
-    color : orange;
-}
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@200;700&display=swap');
 
-h1 {
-    color : blue;
+body {
+    font-family: 'Libre Franklin', sans-serif;
 }
