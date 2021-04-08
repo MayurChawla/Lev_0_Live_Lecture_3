@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Libre Franklin', sans-serif;
+    margin : 0px;
 }
 :root {
     --primary-color : #831843;
@@ -109,4 +110,18 @@ hr {
 
 .bg-gray {
     background-color: lightgray;
+}
+
+/* Footer */
+footer {
+    background-color: var(--primary-color);
+    padding : 2rem 1rem;
+    text-align: center;
+    color : white;
+}
+.footer ul {
+    padding : 0;
+}
+.footer .link {
+    color : white;
 }
